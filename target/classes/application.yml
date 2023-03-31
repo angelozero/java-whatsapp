@@ -1,0 +1,5 @@
+ultra_msg:
+  token: km1j1gtuqdeseyki
+  url: https://api.ultramsg.com/
+  instance_id: instance42076
+  path: /messages/chat

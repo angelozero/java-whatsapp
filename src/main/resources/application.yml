@@ -1,0 +1,5 @@
+ultra_msg:
+  token: YOUR_TOKEN_ID
+  url: https://api.ultramsg.com/
+  instance_id: YOUR_INSTANCE_ID
+  path: /messages/chat
